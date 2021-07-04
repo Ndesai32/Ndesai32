@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, My name is Nikhil Desai</h1>
 <h3 align="center">I am Data Science/ Machine Learning Enthusiast.I am passionate in AI/ML field. Would love to do Data Wrangling, Visualization and take insights from it. Helps to build ML models and try to achieve good accuracy.</h3>
 
-<img align="center" alt="GIF" src="https://miro.medium.com/max/1600/1*8UpeC1Gui7BjnSgAphKaZg.gif?raw=True" width = "500" height="250" />
+<p align="center"> <img src="https://cecs.anu.edu.au/sites/default/files/ada-banner.jpg" alt="Banner" height="250" width="900" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndesai32&label=Profile%20views&color=0e75b6&style=flat" alt="ndesai32" /> </p>
 
 - 📫 How to reach me **nikhildesai32@gmail.com**
 
-<h3 align="left">Talk with me:</h3>
+### Talk with me:
 <p align="left">
-<a href="https://linkedin.com/in/nikhil-desai-37637676" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-desai-37637676" height="60" width="50" /></a>
-<a href="https://kaggle.com/nik3092" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nik3092" height="60" width="50" /></a>
-<a href="https://medium.com/@nikhil09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nikhil09" height="50" width="40" /></a>
+<a href="https://linkedin.com/in/nikhil-desai-37637676" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-desai-37637676" height="60" width="32px" /></a>
+<a href="https://kaggle.com/nik3092" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nik3092" height="60" width="32px" /></a>
+<a href="https://medium.com/@nikhil09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nikhil09" height="50" width="32px" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
