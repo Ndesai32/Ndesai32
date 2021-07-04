@@ -5,9 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndesai32&label=Profile%20views&color=0e75b6&style=flat" alt="ndesai32" /> </p>
 
-- 📫 How to reach me **nikhildesai32@gmail.com**
+- 📫 Reach me on **nikhildesai32@gmail.com**
 
-### Talk with me:
+### Talk with me On:
+  
 <p align="left">
 <a href="https://linkedin.com/in/nikhil-desai-37637676" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-desai-37637676" height="60" width="32px" /></a>
 <a href="https://kaggle.com/nik3092" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nik3092" height="60" width="32px" /></a>
